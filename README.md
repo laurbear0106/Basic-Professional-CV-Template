@@ -4,14 +4,14 @@ A one-page, print-ready CV template built as a single self-contained HTML file. 
 
 ## Credits
 
-- **HTML code created with Claude** (Anthropic's AI assistant).
-- **CV template** created using examples from [Graduate School CV and Resume Examples, With Notes](https://vincekotchian.com/personal-statements/graduate-school-cv-examples/) (Vince Kotchian) and from my own project.
-- **Color codes** inspired by color palettes on Pinterest.
+- HTML code created with Claude.
+- CV template created using examples from [Graduate School CV and Resume Examples, With Notes](https://vincekotchian.com/personal-statements/graduate-school-cv-examples/) (Vince Kotchian) and from my own project from my B2B Marketing course.
+- Color codes inspired by color palettes on Pinterest.
 
 ## Features
 
 - **Sections:** Professional Summary (with Relevant Skills), Experience, Projects, Education.
-- **Six color schemes**, switchable from the toolbar at the top of the page:
+- **Six Color Schemes:** Switchable from the toolbar at the top of the page:
 
   | Scheme | Colors |
   |---|---|
@@ -26,8 +26,8 @@ A one-page, print-ready CV template built as a single self-contained HTML file. 
 ## Editing
 
 - **Content:** Edit the text inside `<main class="page">` in the HTML file.
-- **Text sizes:** Change the five `--size-*` values near the top of the `<style>` block.
-- **Default color scheme:** Change `data-theme` on the `<body>` tag (for example, `data-theme="violet-on-celadon"`).
+- **Text Sizes:** Change the five `--size-*` values near the top of the `<style>` block.
+- **Default Color Scheme:** Change `data-theme` on the `<body>` tag (for example, `data-theme="violet-on-celadon"`).
 
 ## Fonts and licenses
 
