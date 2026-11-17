@@ -29,7 +29,7 @@ A one-page, print-ready CV template built as a single self-contained HTML file. 
 - **Text Sizes:** Change the five `--size-*` values near the top of the `<style>` block.
 - **Default Color Scheme:** Change `data-theme` on the `<body>` tag (for example, `data-theme="violet-on-celadon"`).
 
-## Fonts and licenses
+## Fonts and Licenses
 
 The embedded fonts are licensed under the SIL Open Font License 1.1. Copies of the licenses are in the `licenses/` folder.
 
